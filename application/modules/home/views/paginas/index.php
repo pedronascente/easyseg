@@ -2,8 +2,7 @@
 <main>
 	<?=$this->load->view("includes/full-slider-home");?>
 	<?=$this->load->view("includes/cta-filantropia");?>
-	<div id="feat_home">
-		<div class="container margin_60_25">	
+	<div class="container margin_60_25">	
 			<div class="row">
 				<div class="col-sm-4">
 					<figure class="animated"><a href="rastreamento"><img src="assets/img/service_home_1.jpg" alt="" class="img-responsive"></a></figure>
@@ -28,17 +27,19 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="row margin_60_25" > 
-		<div class="groupInOneColumn col-xs-12 col-sm-12 col-md-12 "> 
-			<h1 style="text-align: center;">
-				<img alt="" src="assets/img/icone_lider.png" style="width: 82px; height: 82px;">&nbsp;
-				<span style="font-size:30px;">
-					<strong>Somos a empresa&nbsp;<span style="color:#e94e1b;">Líder em Segurança</span>.&nbsp;</strong>
-				</span>
-			</h1> 
-		</div> 
-	</div>
+
+		<div class="container margin_60_25">		
+			<div class="row margin_60_25" > 
+				<div class="groupInOneColumn col-xs-12 col-sm-12 col-md-12 "> 
+					<h1 style="text-align: center;">
+						<img alt="" src="assets/img/icone_lider.png" style="width: 82px; height: 82px;">&nbsp;
+						<span style="font-size:30px;">
+							<strong>Somos a empresa&nbsp;<span style="color:#e94e1b;">Líder em Segurança</span>.&nbsp;</strong>
+						</span>
+					</h1> 
+				</div> 
+			</div>
+		</div>
 	<div class="container margin_60_25">
 		<div class="row">
 			<div class="col-md-6">

@@ -20,20 +20,7 @@
   <meta property="og:title" content="Easyseg Segurança">
   <meta property="og:description" content="Faça Agora, Sua Cotação Gratis. ">
   <meta property="og:image" content="https://www.rastreadorvolpato.com/easyseg/assets/img/logo.jpg">
-   <!--compartilhar Twitter Card--> 
   
-<!--
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="Conta do Twitter do site (incluindo arroba)">
-  <meta name="twitter:title" content="Título da página">
-  <meta name="twitter:description" content="Descrição da página. No máximo 200 caracteres">
--->
-
-  <!--imagens largas para o Twitter Summary Card precisam ter pelo menos 280x150px-->
-<!--
-  <meta name="twitter:image" content="http://www.example.com/image.jpg">
-  <meta name="twitter:creator" content="Conta do Twitter do autor do texto (incluindo arroba)">
--->
   <title>Easyseg Segurança</title>
 
   <!-- Favicons-->
@@ -48,6 +35,8 @@
 
   <?=isset($assets['css'])?$assets['css']:'';?>
   <?=isset($assets['javaScriptHeader'])?$assets['javaScriptHeader']:'';?>
+
+  
 </head>
 <body>
       <?=$content; ?>                   

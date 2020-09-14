@@ -79,7 +79,8 @@ class Causa extends MX_Controller {
         <link href="'.$url.'/assets/css/layerslider.css" rel="stylesheet">
 
         <!-- SPECIFIC CSS -->
-        <link href="'.$url.'/assets/css/grey.css" rel="stylesheet">';
+        <link href="'.$url.'/assets/css/grey.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">';
 
          $javaScript_default =' <!-- Common scripts -->
         <script src="'.$url.'/assets/js/jquery-2.2.4.min.js"></script>
@@ -95,7 +96,8 @@ class Causa extends MX_Controller {
         <!-- Specific scripts -->
         <script src="'.$url.'/assets/js/jquery.validate.js"></script>
         <script src="'.$url.'/assets/js/jquery.stepy.min.js"></script>
-        <script src="'.$url.'/assets/js/quotation-validate.js"></script>';      
+        <script src="'.$url.'/assets/js/quotation-validate.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>';      
 
         return array(
             'css' => $_css_index,

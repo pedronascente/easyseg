@@ -76,23 +76,16 @@ class Contato extends MX_Controller {
         <link href="'.$url.'/assets/css/layerslider.css" rel="stylesheet">
 
         <!-- SPECIFIC CSS -->
-        <link href="'.$url.'/assets/css/grey.css" rel="stylesheet">';
+        <link href="'.$url.'/assets/css/grey.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">';
 
          $javaScript_default =' <!-- Common scripts -->
         <script src="'.$url.'/assets/js/jquery-2.2.4.min.js"></script>
         <script src="'.$url.'/assets/js/common_scripts_min.js"></script>
         <script src="'.$url.'/assets/js/functions.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>';
 
-        <!-- LayerSlider script files -->
-        <script src="'.$url.'/assets/js/greensock.js"></script>
-        <script src="'.$url.'/assets/js/layerslider.transitions.js"></script>
-        <script src="'.$url.'/assets/js/layerslider.kreaturamedia.jquery.js"></script>
-        <script src="'.$url.'/assets/js/slider_func.js"></script>
-        
-        <!-- Specific scripts -->
-        <script src="'.$url.'/assets/js/jquery.validate.js"></script>
-        <script src="'.$url.'/assets/js/jquery.stepy.min.js"></script>
-        <script src="'.$url.'/assets/js/quotation-validate.js"></script>';      
+       
 
         return array(
             'css' => $_css_index,

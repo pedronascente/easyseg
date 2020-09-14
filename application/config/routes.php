@@ -4,6 +4,9 @@ $route['translate_uri_dashes'] = FALSE;
 $route['default_controller'] = 'home/index';
 
 $route['home'] = 'home/index';
+$route['politica-de-privacidade'] = 'home/politicaDePrivacidade';
+
+
 $route['save'] = 'home/save';
 $route['obrigado'] = 'home/obrigado';
 $route['error'] = 'home/error';
