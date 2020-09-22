@@ -29,12 +29,12 @@
 		</div>
 
 		<div class="container margin_60_25">		
-			<div class="row margin_60_25" > 
+			<div class="row " > 
 				<div class="groupInOneColumn col-xs-12 col-sm-12 col-md-12 "> 
 					<h1 style="text-align: center;">
 						<img alt="" src="assets/img/icone_lider.png" style="width: 82px; height: 82px;">&nbsp;
 						<span style="font-size:30px;">
-							<strong>Somos a empresa&nbsp;<span style="color:#e94e1b;">Líder em Segurança</span>.&nbsp;</strong>
+							<strong>Por que <span style="color:#e94e1b;">somos</span> a empresa&nbsp;<span style="color:#e94e1b;">Líder em Segurança?</span></strong>
 						</span>
 					</h1> 
 				</div> 
@@ -44,61 +44,65 @@
 		<div class="row">
 			<div class="col-md-6">
 				<div class="box_feat">
-					<span><img src="assets/img/svg_icons/shield.svg" alt=""></span>
-					<h3>Full Protection</h3>
-					<p>Lorem ipsum dolor sit amet, no movet simul laoreet pri, aperiri fabulas expetenda ei pro. Sed vero assentior ad, est vide liber viris ne. Mea saperet evertitur intellegebat ei, an labore cetero eos.</p>
+					<span><img src="assets/img/svg_icons/supervisao-motorizada.png" alt="Supervisão Motorizada"></span>
+					<h3>Supervisão Motorizada</h3>
+					<p>Com o serviço da Supervisão Motorizada Easyseg a sua proteção contra roubo é reforçada, pois enquanto nossos operadores da Central de Monitoramento acionam a polícia 24h, um supervisor motorizado vai até o local avaliar o motivo que causou o sinal do alarme. (Verifique a disponibilidade em sua região.)</p>
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="box_feat">
-					<span><img src="assets/img/svg_icons/mobile.svg" alt=""></span>
-					<h3>Management via App</h3>
-					<p>Mea saperet evertitur intellegebat ei, an labore cetero eos. Quo no facilisis contentiones, enim graeci vim ea, justo graecis ne qui. His tation theophrastus intellegebat ut, hinc fierent nam ea.</p>
+					<span><img src="assets/img/svg_icons/aplicativo.png" alt="Controle pelo Smartphone"></span>
+					<h3>Controle pelo Smartphone</h3>
+					<p>Sua segurança em qualquer lugar. Através do aplicativo "My Easyseg" você gerencia o seu alarme de qualquer lugar do mundo através do seu Smartphone ou Tablet.</p>
 				</div>
 			</div>
-		</div><!-- End row -->
+		</div>
 		<div class="row">
 			<div class="col-md-6">
 				<div class="box_feat">
-					<span><img src="assets/img/svg_icons/video-camera.svg" alt=""></span>
-					<h3>HD Video Camera</h3>
-					<p>Lorem ipsum dolor sit amet, no movet simul laoreet pri, aperiri fabulas expetenda ei pro. Sed vero assentior ad, est vide liber viris ne. Mea saperet evertitur intellegebat ei, an labore cetero eos.</p>
+					<span><img src="assets/img/svg_icons/bt-sos.png" alt="Botão SOS"></span>
+					<h3>Botão SOS</h3>
+					<p>Você aciona o botão SOS, nós enviamos ajuda rapidamente: polícia, bombeiros e ambulância.</p>
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="box_feat">
-					<span><img src="assets/img/svg_icons/microphone.svg" alt=""></span>
-					<h3>Microphone</h3>
-					<p>Mea saperet evertitur intellegebat ei, an labore cetero eos. Quo no facilisis contentiones, enim graeci vim ea, justo graecis ne qui. His tation theophrastus intellegebat ut, hinc fierent nam ea.</p>
-				</div>
-			</div>
-		</div><!-- End row -->
-		<div class="row">
-			<div class="col-md-6">
-				<div class="box_feat">
-					<span><img src="assets/img/svg_icons/settings.svg" alt=""></span>
-					<h3>Tecnical Support</h3>
-					<p>Lorem ipsum dolor sit amet, no movet simul laoreet pri, aperiri fabulas expetenda ei pro. Sed vero assentior ad, est vide liber viris ne. Mea saperet evertitur intellegebat ei, an labore cetero eos.</p>
-				</div>
-			</div>
-			<div class="col-md-6">
-				<div class="box_feat">
-					<span><img src="assets/img/svg_icons/clipboard.svg" alt=""></span>
-					<h3>Certifications</h3>
+					<span><img src="assets/img/svg_icons/servico-tecnico.png" alt="Serviço Técnico"></span>
+					<h3>Serviço Técnico</h3>
 					<p>Mea saperet evertitur intellegebat ei, an labore cetero eos. Quo no facilisis contentiones, enim graeci vim ea, justo graecis ne qui. His tation theophrastus intellegebat ut, hinc fierent nam ea.</p>
 				</div>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="box_feat">
+					<span><img src="assets/img/svg_icons/resposta-em-ooucos-segundos.png" alt="Resposta em Poucos Segundos"></span>
+					<h3>Resposta em Poucos Segundos</h3>
+					<p>Clientes Easyseg podem ter atendimento telefônico 24 horas por dia.</p>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="box_feat">
+					<span><img src="assets/img/svg_icons/garantia-vitalicia-do-produto.png" alt="Garantia Vitalícia do Produto"></span>
+					<h3>Garantia Vitalícia do Produto</h3>
+					<p>Os dispositivos dos Alarmes Easyseg possuem garantia vitalícia, assim como a atualização de software para novos serviços.</p>
+				</div>
+			</div>
+		</div>
+ 		<div class="row margin_30_70 text-center">
+            <div class="col-md-12">
+                <a href="javascript:void(0)" class="btn btn-lg button_intro hidden-xs" data-toggle="modal" data-target="#myModalCTA"
+                 style=" padding: 12px 36px; font-size:20px;">Solicitar Cotação</a>
+            </div>
+        </div>
 	</div>
 	<div class="container-fluid margin_60_25 " style="background: #f3f3f3; padding-bottom: 70px">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-9 col-md-offset-2 text-center ">
-
-						<h2>Receba <span  style="color: #e94e1b">GRÁTIS</span> nossa consultoria   <br> <span  style="color: #e94e1b"> de segurança</span></h2>
-						<!--<p class="lead">Preencha os seus dados que em breve nossos consultores entrará em contato</p>-->
+				<div class="col-md-8 col-md-offset-2 text-center ">
+					<h2>Receba <span  style="color: #e94e1b">GRÁTIS</span> nossa consultoria   <br> <span  style="color: #e94e1b"> de segurança</span></h2>
 				</div>
-				<div class="col-md-9 col-md-offset-2 ">
+				<div class="col-md-8 col-md-offset-2 ">
 					<?=$this->load->view("formulario/home"); ?>	
 				</div>
 			</div>    

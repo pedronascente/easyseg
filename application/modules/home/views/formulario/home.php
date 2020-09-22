@@ -38,7 +38,7 @@
     <div class="row text-center">
         <div class="col-md-12"> 
             <div class="form-group"> 
-                <input type="submit" value="Enviar" class="btn_1 green medium add_bottom_30" id="submit-contact"/>
+                <input type="submit" value="Enviar"    style="  min-width: 250px; padding: 12px 0; font-size:18px; "  class="  medium add_bottom_30 button_intro" id="submit-contact"/>
             </div>
         </div>           
     </div>

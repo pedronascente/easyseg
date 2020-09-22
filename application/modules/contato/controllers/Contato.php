@@ -48,7 +48,8 @@ class Contato extends MX_Controller {
                         <li><b>Origem : </b>'.$data['_origem'].'</li>
                     </ul>';
         $this->email->from("easyseg@easyseg.com","LAEAD");
-        $this->email->to("desenvolvimento@grupovolpato.com", $data['_nome']);
+        $this->email->to("contato@easyseg.com", $data['_nome']);
+        $this->email->cc("desenvolvimento@grupovolpato.com", $data['_nome']);
         $this->email->subject("FORMULARIO PAGINA : CONTATO");
         $this->email->message($mensagem);
         return $this->email->send();      
@@ -83,6 +84,7 @@ class Contato extends MX_Controller {
         <script src="'.$url.'/assets/js/jquery-2.2.4.min.js"></script>
         <script src="'.$url.'/assets/js/common_scripts_min.js"></script>
         <script src="'.$url.'/assets/js/functions.js"></script>
+        
         <script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script>';
 
        

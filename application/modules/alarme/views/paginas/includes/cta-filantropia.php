@@ -5,7 +5,7 @@
 					<h3>Segurança e filantropia, juntos por um mundo melhor</h3>
 				</div>
 				<div class="col-md-2">
-					<a href="causa" class="btn_quote">Saiba como </a>
+					<a href="causa" class="btn_quote" style="border-radius: 36px" >Saiba como </a>
 				</div>
 			</div>
 		</div>

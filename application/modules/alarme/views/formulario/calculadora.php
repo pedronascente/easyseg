@@ -1,5 +1,5 @@
 <div class="container margin_60_35">
-	<div class="row add_bottom_30">
+	<div class="row " style="padding-bottom: 60px !important">
 		<div class="col-md-4">
 			<div class="box_quote">
 				<h3><strong>Calcule AGORA</strong> o preço do seu Alarme</h3>
@@ -117,13 +117,13 @@
                         <div class="col-md-6 col-sm-6">
                             <div class="form-group">
                                 <label>Nome</label>
-                                <input type="text" class="form-control" id="firstname_quote" name="_nome">
+                                <input type="text" class="form-control" id="nome" name="nome">
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="form-group">
                                 <label>Sobre nome</label>
-                                <input type="text" class="form-control" id="lastname_quote" name="_sobre_nome">
+                                <input type="text" class="form-control" id="sobre_nome" name="sobre_nome">
                             </div>
                         </div>
                     </div>
@@ -131,13 +131,13 @@
                         <div class="col-md-6 col-sm-6">
                             <div class="form-group">
                                 <label>Email</label>
-                                <input type="email" class="form-control" id="email_quote" name="_email">
+                                <input type="email" class="form-control" id="email" name="email">
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="form-group">
                                 <label>Telefone</label>
-                                <input type="text" class="form-control" id="phone_quote" name="_telefone">
+                                <input type="text" class="form-control" id="telefone" name="telefone" maxlength="20">
                             </div>
                         </div>
                     </div>
@@ -152,10 +152,11 @@
                     </div>
 				</fieldset>
 				<input type="hidden" class="form-control" name="_origem" value="<?= base_url(uri_string());?>">
-				<input type="hidden" class="form-control" name="_servico" value="calculadora">
+				<input type="hidden" class="form-control" name="servico" value="calculadora">
 				<input type="submit" class="finish" value="Finalizar!">
 			</form>
 		</div>
 	</div>
-	<hr>
+
 </div>
+

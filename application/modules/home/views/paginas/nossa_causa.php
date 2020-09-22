@@ -12,16 +12,12 @@
             <div class="row">
                 <div class="col-md-9 col-md-offset-1 text-center">
                     <div id="intro">
-                       <h2 style="color: #e94e1b">"VOCÊ TAMBÉM PODE AJUDAR TRANFORMAR O SENÁRIO DAS NOSSAS CRIANÇAS DO NOSSO BRASIL .."</h2>
-                	 	<p class="lead">
-                            A cada serviço prestado, A EASYSEG repassa parte do Financeiro para ONG  Associação de Assistência à Criança Deficiente (AACD)
-                        </p>
-						<p>
+                       <h2 style="color: #e94e1b">"VOCÊ TAMBÉM PODE AJUDAR À TRANFORMAR O CENÁRIO DAS NOSSAS CRIANÇAS DO NOSSO BRASIL..."</h2>
+               			<p>
 							 <a href="javascript:void(0)"  title="Clique para assistir o Video." data-toggle="modal" data-target="#myModalvideocausa">
 							 <img src="<?=base_url('assets/img/video-1-aacd.jpg');?>" alt=""  class="img-responsive">
 						 </a>
 						</p>
-                       
                         <a href="" class="btn btn-success hidden-xs " data-toggle="modal" data-target="#myModalCTA"
                         style=" padding: 12px 36px;background: #49ca37; font-size:36px; border-radius: 38px">QUERO FAZER A DIFERENÇA</a>
                         <a href="" class="btn btn-success  visible-xs " data-toggle="modal" data-target="#myModalCTA"
@@ -88,7 +84,7 @@
                     <a href="" class="btn btn-success  visible-xs " data-toggle="modal" data-target="#myModalCTA"
                         style=" background: #49ca37;width: 100%; padding: 15px 0; border-radius: 38px">
                   	  QUERO FAZER A DIFERENÇA
-                </a>
+                	</a>
 				</div>
 			</div>
 		</div>
@@ -114,7 +110,7 @@
         <div class="modal-content">
             <div class="modal-body " >
                 <div id="rd-text-joq3m2m5g" class=" bricks--component-text">
-                	<h4>Receba uma Consultortia com um de nossos Especialistas . Totalmente GRÁTIS</h4>
+                	<h4>Preencha seus dados e Solicite agora mesmo uma Cotação Exclusiva.</h4>
                 </div>
                 <?=$this->load->view("formulario/formulario_modal"); ?>
             </div>

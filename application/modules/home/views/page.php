@@ -35,8 +35,6 @@
 
   <?=isset($assets['css'])?$assets['css']:'';?>
   <?=isset($assets['javaScriptHeader'])?$assets['javaScriptHeader']:'';?>
-
-  
 </head>
 <body>
       <?=$content; ?>                   

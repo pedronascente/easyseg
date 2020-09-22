@@ -25,16 +25,11 @@
                     <h5>Contatos</h5>
                     <ul>
                     	<li><strong>Capitais e regiões metropolitanas</strong><br><a href="tel://555130039363">55 51 3003-9363</a></li>
-                        <li><strong>demais regiões</strong><br><a href="tel://55518006465551">0800-888-9696</a></li>
-                        <li><strong>Geral</strong><br><a href="mailto:info@domain.com">contato@easyseg.com</a></li>
+                        <li><strong>demais regiões</strong><br><a href="tel://555108008889696">0800-888-9696</a></li>
+                        <li><strong>Geral</strong><br><a href="javascript:void(0)">contato@easyseg.com</a></li>
                         
                     </ul>
                 </div>
-                <!--
-<               div class="quote_banner">
-                    <a href="<?=base_url('alarme/calculadora')?>">Calcule AGORA o preço do seu Alarme</a>
-                </div>
-                -->
             </div>
         </div>
     </div>

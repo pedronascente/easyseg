@@ -1,7 +1,7 @@
 <section class="promo_full">
 	<div class="promo_full_wp">
 		<div>
-			<h3>O que os Clientes dizem<span>Id tale utinam ius, an mei omnium recusabo iracundia.</span></h3>
+			<h3>O que os Clientes dizem<span></span></h3>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
@@ -18,7 +18,6 @@
 									</div>
 								</div><!-- End box_overlay -->
 							</div>
-
 							<div>
 								<div class="box_overlay">
 									<div class="pic">
@@ -31,7 +30,6 @@
 									</div>
 								</div>
 							</div>
-
 							<div>
 								<div class="box_overlay">
 									<div class="pic">

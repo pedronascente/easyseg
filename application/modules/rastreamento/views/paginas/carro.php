@@ -19,12 +19,12 @@
 				</div>
 			</div>
 		</div>
-	</div>		
-	<?php  echo $this->load->view("includes/beneficios_rastreamento"); ?>
+	</div>	
 	<div class="container margin_60_25">
 		<?php  echo $this->load->view("includes/servico_rastreamento"); ?>
-		<hr class="add_bottom_30">
-	</div>
+	</div>	
+	<?php  echo $this->load->view("includes/beneficios_rastreamento"); ?>
+	
 	<?=$this->load->view("includes/depoimentos"); ?>
 </main>
 <?php  echo $this->load->view("footer"); ?>

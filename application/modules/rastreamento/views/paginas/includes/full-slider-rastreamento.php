@@ -20,7 +20,7 @@
 		<div class="ls-slide" data-ls="slidedelay: 5000; transition2d:5;">
 			<img src="<?=base_url('assets/img/slides/slide_rastreamento_caminhao.jpg" class="ls-bg');?>" alt="Slide background">
 			<h3 class="ls-l" style="top:45%; left:50%; text-align:right; font-size: 60px; white-space:nowrap; color:#fff; text-transform:uppercase;font-weight:900;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;">Rastreamento Para Caminhão</h3>
-			<p class="ls-l" style="top:53%; left:50%; color:#fff; font-size:28px; white-space:nowrap;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">"Tecnologia com registro de Imagens"</p>
+			<p class="ls-l" style="top:53%; left:50%; color:#fff; font-size:28px; white-space:nowrap;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">"Central de Atendimento 24H E Muito mais..."</p>
 			<a class="ls-l button_intro " style="top:65%; left:50%;white-space: nowrap;" data-ls="durationin:2000;delayin:1300;easingin:easeOutElastic;" href="<?=base_url('rastreamento/caminhao');?>">Calcule Agora</a>
 		</div>
 		<!-- first slide -->

@@ -15,7 +15,7 @@
             <div class="container ">
                 <div class="row hidden-xs">
                     <div class="col-sm-4 hidden-xs">
-                        <span id="tag_line">"Segurança Inteligente"</span>
+                        <span id="tag_line">Segurança Inteligente</span>
                     </div>
                     <div class="col-sm-8">
                         <ul id="top_links">

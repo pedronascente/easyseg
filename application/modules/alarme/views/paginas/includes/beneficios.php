@@ -1,5 +1,14 @@
     <div id="feat_home">
         <div class="container margin_60_25">
+            <div class="row"  style="margin-bottom: 40px"> 
+                <div class=" col-xs-12 col-sm-12 col-md-12 "> 
+                    <h1 class="text-center">
+                        <span style="font-size:30px;">
+                            <strong>Conheça nossas&nbsp;<span style="color:#e94e1b;">Vantagens</span>&nbsp;</strong>
+                        </span>
+                    </h1> 
+               </div> 
+            </div>
             <div class="row">
                 <div class="col-md-6">
                     <div class="box_feat">
@@ -46,6 +55,13 @@
                         <h3>Serviço Técnico</h3>
                         <p>Clientes Easyseg podem ter atendimento telefônico 24 horas por dia.</p>
                     </div>
+                </div>
+            </div>
+
+            <div class="container margin_30_70 text-center">
+                <div>
+                    <a href="javascript:void(0)" class="btn btn-lg button_intro hidden-xs" data-toggle="modal" data-target="#myModalCTA"
+             style=" padding: 12px 36px; font-size:20px; ">Solicitar Cotação</a>
                 </div>
             </div>
         </div>

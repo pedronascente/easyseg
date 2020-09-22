@@ -59,7 +59,8 @@ class Indique extends MX_Controller {
                     </ul>';
 
         $this->email->from("easyseg@easyseg.com","LAEAD");
-        $this->email->to("desenvolvimento@grupovolpato.com", $data['_nome']);
+        $this->email->to("contato@easyseg.com", $data['_nome']);
+        $this->email->cc("desenvolvimento@grupovolpato.com", $data['_nome']);
         $this->email->subject("FORMULARIO INDIQUE E GANHE");
         $this->email->message($mensagem);
         return $this->email->send();      

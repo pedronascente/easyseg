@@ -19,6 +19,7 @@
 			</div>
 		</div>
 	</div>
+	<?=$this->load->view("includes/servicos");?>
 	<?=$this->load->view("includes/beneficios"); ?> 
 	<?=$this->load->view("formulario/calculadora"); ?>	
 	<?=$this->load->view("includes/depoimentos"); ?>

@@ -7,20 +7,20 @@
         <div class="sk-rect5"></div>
     </div>
 </div>
-<div class="layer"></div><!-- Mobile menu overlay mask -->
+<div class="layer"></div>
 <!-- Header================================================== -->
 <header>
     <div id="top_line">
         <div class="container ">
             <div class="row hidden-xs">
                 <div class="col-sm-4 hidden-xs">
-                    <span id="tag_line">"Segurança Inteligente"</span>
+                    <span id="tag_line">Segurança Inteligente</span>
                 </div>
                 <div class="col-sm-8">
                     <ul id="top_links">
                         <li id="">Capitais e Regiões Metropolitanas   
                             <a href="tel://555130039363" style="color :#e94e1b "> <b><i class="icon-phone-3"></i> 3003-9363</b> </a>  Demais Localidades   
-                            <a href="tel://555130039363" style="color :#e94e1b "> <b><i class="icon-phone-3"></i>0800-888-9696</b></a> 
+                            <a href="tel://555108008889696" style="color :#e94e1b "> <b><i class="icon-phone-3"></i>0800-888-9696</b></a> 
                         </li>
                     </ul>
                 </div>

@@ -86,7 +86,8 @@ class Rastreamento extends MX_Controller {
         <li><b>_origem:</b>'.$data['_origem'].'</li>
         </ul>';
         $this->email->from("easyseg@easyseg.com", "LAEAD");
-        $this->email->to("desenvolvimento@grupovolpato.com", $data['_nome']);
+        $this->email->to("contato@easyseg.com", $data['_nome']);
+        $this->email->cc("desenvolvimento@grupovolpato.com", $data['_nome']);
         $this->email->subject("FORMULARIO PAGINA : RASTREAMENTO");
         $this->email->message($mensagem);
        return $this->email->send();      
