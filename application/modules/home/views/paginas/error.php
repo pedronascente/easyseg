@@ -3,7 +3,7 @@
 	$(function(){
 		$('body').css( "background", "red" );
 		setTimeout(function(){
-				window.location = "/easyseg/"			
+				window.location = "/"			
 		}, 10000)
 	});
 </script>

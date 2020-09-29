@@ -2,7 +2,7 @@
 	<div class="promo_full_wp ">
 		<div>
 			<h3 style="text-transform: capitalize">Pessoas que fizeram a Diferença</h3>
-			<p>Faça você Tambem parte dessa Corrente do bem</p>
+			<p>Faça você também parte dessa corrente do bem</p>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
@@ -12,7 +12,7 @@
 									<div class="pic">
 										<figure><img src="<?=base_url('assets/img/depoimentos/testimonial_portaria_1.jpg');?>" alt="" class="img-circle">
 										</figure>
-										<h4>Michael Silva<small>Cliente Portaria Virtual</small></h4>
+										<h4>Michael Silva<small>Cliente Portaria</small></h4>
 									</div>
 									<div class="comment">
 											" Na intenção de melhorarmos a segurança em nosso condomínio, 
@@ -54,7 +54,7 @@
 										<figure>
 											<img src="<?=base_url('assets/img/depoimentos/testimonial_alarme_2.jpg');?>" alt="" class="img-circle">
 										</figure>
-										<h4>Jorge Jr<small>Clienet de Alarme</small></h4>
+										<h4>Jorge Jr<small>Cliente de Alarme</small></h4>
 									</div>
 									<div class="comment">
 										"Por uma experiência real de tentativa de roubo, pude comprovar o atendimento rápido e eficiente da Easyseg que fez com que os bandidos fossem presos e a minha mercadoria recuperada"

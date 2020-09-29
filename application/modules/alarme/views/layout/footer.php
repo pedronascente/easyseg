@@ -7,12 +7,22 @@
                 entregando aos seus clientes: sistemas e padrões de segurança com o mais elevado nível.</p>
             </div>
             <div class="col-md-3 col-md-offset-1 col-sm-4">
-                <h3>Institucional</h3>
-                <ul>
+                <!--
+                    <h3>Institucional</h3>
+                    <ul>
                     <li><a href="<?=base_url();?>">Home</a></li>
                     <li><a href="<?=base_url('causa')?>">Nossa Causa</a></li>
                     <li><a href="<?=base_url('contato')?>">Contato</a></li>
                     <li><a href="<?=base_url('talentos')?>">Banco de Talentos</a></li>
+                    </ul>
+                -->
+
+                <h3>Produto e Serviços</h3>
+                <ul>
+                    <li><a href="<?=base_url('rastreamento')?>">Rastreamento Veícular</a></li>
+                    <li><a href="<?=base_url('alarme')?>">Alerme Monitorado</a></li>
+                    <li><a href="<?=base_url('portaria')?>">Protaria Virtual</a></li>
+                    <li><a href="<?=base_url('indique')?>">Indique e Ganhe</a></li>
                 </ul>
             </div>
             <div class="col-md-4 col-sm-12" id="contact_bg">
@@ -23,8 +33,8 @@
                         - Rua Arabutan, 657 Porto Alegre - Brasil <br> 
                         - Florida na 1100 South Federal Hwy - Deerfield Beach - E.U.A.
                     </li>
-                    <li id="phone_footer">Capitais e regiões metropolitanas <a href="tel://555130039363">3003-9363</a> demais regiões<a href="tel://555108008889696"> 0800-888-9696</a></li>
-                    <li id="email_footer"><a href="javascript:voi(0)">contato@easyseg.com</a></li>
+                    <li id="phone_footer">Capitais e regiões metropolitanas <a href="tel://30039363">3003-9363</a> demais regiões<a href="tel://08008889696"> 0800-888-9696</a></li>
+                    <li id="email_footer"><a href="mailto:contato@easyseg.com">contato@easyseg.com</a></li>
                 </ul>
             </div>
         </div>
@@ -47,7 +57,7 @@
 </footer>
 <div id="toTop"></div>
 <!-- START Bootstrap-Cookie-Alert -->
-<div class="alert text-center cookiealert" role="alert" style="height: 80px">
+<div class="alert text-center cookiealert" role="alert" style="min-height: 80px">
      Este site utiliza cookies para lhe proporcionar uma melhor experiência. Ao navegar você aceita a nossa  <a href="<?=base_url('politica-de-privacidade');?>" target="_blank" style="color: #fff;">Política de Privacidade.</a>
     <button type="button" class="btn  btn-warning btn-lg acceptcookies"  style="background: #e94e1b">
         Entendi e Aceito!

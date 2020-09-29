@@ -60,7 +60,7 @@
                     <option value="">-- Indicação para o serviço --</option> 
                     <option value="rastreamento_veicular">Rastreamento Veícular </option>
                     <option value="alarme">Alarme Monitorado </option> 
-                    <option value="portaria">Portaria Virtual </option> 
+                    <option value="portaria">Portaria</option> 
                 </select> 
             </div>
             <input type="hidden" class="form-control" name="_origem" value="<?=base_url(uri_string());?>">           

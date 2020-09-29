@@ -35,12 +35,12 @@ $route['talentos/save'] = 'talentos/save';
 $route['talentos/obrigado'] = 'talentos/obrigado';
 
 $route['portaria'] = 'portaria/index';
-$route['portaria/virtual'] = 'portaria/virtual';
-$route['portaria/fisica'] = 'portaria/fisica';
-$route['portaria/save-virtual'] = 'portaria/saveVirtual';
-$route['portaria/save-fisica'] = 'portaria/saveFisica';
-$route['portaria/sucesso-virtual'] = 'portaria/obrigadoVirtual';
-$route['portaria/sucesso-fisica'] = 'portaria/obrigadoFisica';
+$route['portaria/vertical'] = 'portaria/vertical';
+$route['portaria/horizontal'] = 'portaria/horizontal';
+$route['portaria/save-vertical'] = 'portaria/saveVertical';
+$route['portaria/save-horizontal'] = 'portaria/saveHorizontal';
+$route['portaria/sucesso-vertical'] = 'portaria/obrigadoVertical';
+$route['portaria/sucesso-horizontal'] = 'portaria/obrigadoHorizontal';
 
 $route['rastreamento'] = 'rastreamento/index';
 $route['rastreamento/carro'] = 'rastreamento/carro';

@@ -52,7 +52,7 @@
                                 <ul>
                                     <li><a href="<?=base_url('rastreamento')?>">Rastreamento Veicular</a></li>
                                     <li><a href="<?=base_url('alarme')?>">Alarme Monitorado</a></li>
-                                    <li><a href="<?=base_url('portaria')?>">Portaria  Virtual</a></li>
+                                    <li><a href="<?=base_url('portaria')?>">Portaria</a></li>
                                 </ul>
                             </li>
                             <li><a href="<?=base_url('causa')?>">Nossa Causa</a></li>

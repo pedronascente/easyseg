@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="col-lg-8 col-md-7">
 					<div class="intro_title_booking">
-						<h2>Condomínio Horizontal</h2>
+						<h2>Condominío Vertical</h2>
 						<p>Reduza em até 50% dos custos com sua portaria tradicional.</p>
 					</div>
 				</div>
@@ -14,7 +14,7 @@
 						<h3>Contato Rápido</h3>						
 						<p>Preencha o formulario em breve entraremos em contato.</p>
 						<div id="message-booking"></div>
-						<?=$this->load->view("../formulario/formFisica"); ?>
+						<?=$this->load->view("formulario/formVertical"); ?>
 					</div>
 				</div>
 			</div>

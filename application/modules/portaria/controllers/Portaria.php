@@ -5,8 +5,8 @@ class Portaria extends MX_Controller {
 
     private $Dados;
 
-    private $_location1 = "portaria/sucesso-fisica";
-    private $_location2 = "portaria/sucesso-fisica";
+    private $_location1 = "portaria/sucesso-horizontal";
+    private $_location2 = "portaria/sucesso-horizontal";
     private $_location_error = "error";
 
 
@@ -18,15 +18,15 @@ class Portaria extends MX_Controller {
          $this->loadPage('portaria/paginas/index');
     }
 
-    public function virtual() {
-         $this->loadPage('portaria/paginas/virtual');
+    public function vertical() {
+         $this->loadPage('portaria/paginas/vertical');
     }
 
-    public function fisica() {
-         $this->loadPage('portaria/paginas/fisica');
+    public function horizontal() {
+         $this->loadPage('portaria/paginas/horizontal');
     }
 
-    public function saveVirtual(){
+    public function saveVertical(){
         $url = base_url();
         if($this->input->post()==null){
            header('Location:'.$url.'portaria');
@@ -39,7 +39,7 @@ class Portaria extends MX_Controller {
         }
     }
 
-    public function saveFisica(){
+    public function saveHorizontal(){
          $url = base_url();
         if($this->input->post()==null){
            header('Location:'. $url.'portaria');
@@ -52,12 +52,12 @@ class Portaria extends MX_Controller {
         }
     }
 
-    public function obrigadoVirtual(){
-        $this->loadPage('portaria/paginas/obrigado-virtual');   
+    public function obrigadoVertical(){
+        $this->loadPage('portaria/paginas/obrigado-vertical');   
     }
 
-    public function obrigadoFisica(){
-        $this->loadPage('portaria/paginas/obrigado-fisica');   
+    public function obrigadoHorizontal(){
+        $this->loadPage('portaria/paginas/obrigado-horizontal');   
     }
 
 

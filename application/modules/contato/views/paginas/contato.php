@@ -26,7 +26,7 @@
                     <ul>
                     	 <li><strong>Capitais e regiões metropolitanas</strong><br><a href="tel://555130039363">55 51 3003-9363</a></li>
                         <li><strong>demais regiões</strong><br><a href="tel://555108008889696">0800-888-9696</a></li>
-                        <li><strong>Geral</strong><br><a href="javascript:void(0)">contato@easyseg.com</a></li>
+                        <li><strong>Geral</strong><br><a href="mailto:contato@easyseg.com">contato@easyseg.com</a></li>
                         
                     </ul>
                 </div>

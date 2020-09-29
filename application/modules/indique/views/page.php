@@ -16,10 +16,10 @@
   <meta property="og:site_name" content="celke">
   <meta property="og:locale" content="pt_BR">
   <meta property="fb:admins" content="100009416086586">
-  <meta property="og:url" content="https://www.rastreadorvolpato.com/easyseg/">
+  <meta property="og:url" content="">
   <meta property="og:title" content="Easyseg Segurança">
   <meta property="og:description" content="Faça Agora, Sua Cotação Gratis. ">
-  <meta property="og:image" content="https://www.rastreadorvolpato.com/easyseg/assets/img/logo.jpg">
+  <meta property="og:image" content="assets/img/logo.jpg">
    <!--compartilhar Twitter Card--> 
   
 <!--

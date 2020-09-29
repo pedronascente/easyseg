@@ -3,7 +3,7 @@
     <div id="sub_content_in">
         <div class="container">
             <h1>Banco de Talentos</h1>
-            <p>"Uma empresa prospera é feita de pessoas que desejam prosperar"</p>
+            <p>"Uma empresa próspera é feita de pessoas que desejam prosperar"</p>
         </div>
     </div>
 </section>

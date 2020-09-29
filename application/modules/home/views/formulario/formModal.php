@@ -32,7 +32,7 @@
                     <option value="">-- Selecione -- </option> 
                     <option value="rastreamento_veicular">Rastreamento Veícular </option> 
                     <option value="alarme">Alarme Monitorado </option> 
-                    <option value="portaria">Portaria Virtual </option> 
+                    <option value="portaria">Portaria</option> 
                 </select> 
             </div> 
         </div>
